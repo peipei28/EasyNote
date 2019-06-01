@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EasyNote</string>
+    <string name="registerfor">string</string>
+    <string name="registerdialognew">string</string>
+    <string name="yesbutton">string</string>
+    <string name="nobutton">string</string>
+
+    <string-array name="priority">
+        <item>high</item>
+        <item>medium</item>
+        <item>low</item>
+
+    </string-array>
+</resources>
